@@ -37,7 +37,7 @@ sidebar:
         level: Basalt
 
     interests:
-      - item: Cykling: Landevej, Gravel, Cross, Licensløb
+      - item: "Cykling: Landevej, Gravel, Cross, Licensløb"
         link:
 
       - item: Sund levevis
@@ -68,8 +68,7 @@ experiences:
         Underleverandør for Gott-IT ApS med udvikling og support af IT-systemer
         primært for Region Hovedstaden, og mindre opgaver for Region Sjælland og
         Københavns Kommune.
-          - Region Hovedstaden: Udvikling og vedligehold
-          - Bullet point
+          - "Region Hovedstaden: Udvikling og vedligehold af IT-systemer primært til brugerstyring"
 projects:
     title: Projekter
     intro: >
