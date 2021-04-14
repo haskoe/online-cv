@@ -44,7 +44,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Karriere
     summary: |
       Har efter endt Civilingeniør uddannelse i 1988 arbejdet professionelt med IT
       primært i den farmaceutiske industri. Har de sidste 10 år været selvstændig IT-konsulent,
@@ -111,49 +111,49 @@ skills:
 
     toolset:
       - name: Systemarkitektur
-        level: Ekspert
+        level: 90%
 
       - name: Konfigurationsstyring
-        level: Ekspert
+        level: 90%
 
-      - name: Test (udarbejdelse og udførelse)
-        level: Ekspert
+      - name: Test af IT-systemer
+        level: 90%
 
       - name: Systemudvikling
-        level: Ekspert
+        level: 90%
 
       - name: C#
-        level: Ekspert (20 år)
+        level: 90%
 
       - name: MS SQL Server
-        level: Ekspert (20 år)
+        level: 90%
 
       - name: ASP.Net/ASP
-        level: Ekspert (20 år)
+        level: 90%
 
       - name: Borland Delphi
-        level: Ekspert (20 år)
+        level: 90%
 
       - name: Python
-        level: Godt kendskab
+        level: 70%
 
       - name: HTML/CSS
-        level: Godt kendskab
+        level: 60%
 
       - name: Javascript/NodeJS
-        level: Godt kendskab
+        level: 70%
 
       - name: PostgreSQL/plpgsql
-        level: Godt kendskab
+        level: 70%
 
       - name: Oracle
-        level: Godt kendskab
+        level: 60%
 
       - name: Matlab
-        level: Godt kendskab
+        level: 70%
 
       - name: Git
-        level: Godt kendskab
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
